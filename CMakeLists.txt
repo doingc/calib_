@@ -3,4 +3,4 @@ project(calib)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(calib main.cpp)
+add_executable(calib main.cpp pass.c++ pass.hpp)
